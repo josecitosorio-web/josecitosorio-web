@@ -26,7 +26,7 @@ reales: gestión de ausencias de doctores, cancelación automática de citas en 
 historial de auditoría y dashboard de métricas con Chart.js.
 > `Java` `Spring Boot` `Spring Data JPA` `Thymeleaf` `H2` `Chart.js`
 
-🔗 [Ver repositorio](https://github.com/josecitosorioweb/sikalma-grupo6)
+🔗 [Ver repositorio](https://github.com/josecitosorioweb/sikalma)
 
 ---
 
