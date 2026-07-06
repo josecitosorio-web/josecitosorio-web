@@ -1,4 +1,4 @@
-# Hola, soy José Carlos Osorio 👋
+# Hola, soy José Carlos Osorio Blancas👋
 
 Soy estudiante de desarrollo web apasionado por construir proyectos reales desde cero.
 Actualmente enfocado en el frontend, aprendiendo a crear interfaces limpias y funcionales.
